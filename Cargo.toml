@@ -6,7 +6,3 @@ edition = "2021"
 [dependencies]
 clap = { version = "4.4", features = ["derive"] }
 
-
-# [lib]
-# name = "archiver"
-# path = "src/lib.rs"  # Указываем путь к библиотечному коду
